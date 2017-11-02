@@ -23,7 +23,7 @@
         android:layout_height="300dp">
 
         <ImageView
-            android:id="@+id/body"
+            android:id="@+id/image_body"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -31,7 +31,7 @@
             app:srcCompat="@drawable/body" />
 
         <ImageView
-            android:id="@+id/arms"
+            android:id="@+id/image_arms"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -40,7 +40,7 @@
             app:srcCompat="@drawable/arms" />
 
         <ImageView
-            android:id="@+id/ears"
+            android:id="@+id/image_ears"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -49,7 +49,7 @@
             app:srcCompat="@drawable/ears" />
 
         <ImageView
-            android:id="@+id/eyebrows"
+            android:id="@+id/image_eyebrows"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -58,7 +58,7 @@
             app:srcCompat="@drawable/eyebrows" />
 
         <ImageView
-            android:id="@+id/eyes"
+            android:id="@+id/image_eyes"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -67,7 +67,7 @@
             app:srcCompat="@drawable/eyes" />
 
         <ImageView
-            android:id="@+id/glasses"
+            android:id="@+id/image_glasses"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -76,7 +76,7 @@
             app:srcCompat="@drawable/glasses" />
 
         <ImageView
-            android:id="@+id/hat"
+            android:id="@+id/image_hat"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -85,7 +85,7 @@
             app:srcCompat="@drawable/hat" />
 
         <ImageView
-            android:id="@+id/mouth"
+            android:id="@+id/image_mouth"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -94,7 +94,7 @@
             app:srcCompat="@drawable/mouth" />
 
         <ImageView
-            android:id="@+id/mustache"
+            android:id="@+id/image_mustache"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -103,7 +103,7 @@
             app:srcCompat="@drawable/mustache" />
 
         <ImageView
-            android:id="@+id/nose"
+            android:id="@+id/image_nose"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -112,7 +112,7 @@
             app:srcCompat="@drawable/nose" />
 
         <ImageView
-            android:id="@+id/shoes"
+            android:id="@+id/image_shoes"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"

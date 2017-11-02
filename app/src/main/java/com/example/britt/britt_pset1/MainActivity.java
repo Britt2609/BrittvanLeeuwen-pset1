@@ -13,16 +13,16 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Arms = findViewById(R.id.arms);
-        Ears = findViewById(R.id.ears);
-        Eyebrows = findViewById(R.id.eyebrows);
-        Eyes = findViewById(R.id.eyes);
-        Glasses = findViewById(R.id.glasses);
-        Mouth = findViewById(R.id.mouth);
-        Mustache = findViewById(R.id.mustache);
-        Hat = findViewById(R.id.hat);
-        Nose = findViewById(R.id.nose);
-        Shoes = findViewById(R.id.shoes);
+        Arms = findViewById(R.id.image_arms);
+        Ears = findViewById(R.id.image_ears);
+        Eyebrows = findViewById(R.id.image_eyebrows);
+        Eyes = findViewById(R.id.image_eyes);
+        Glasses = findViewById(R.id.image_glasses);
+        Mouth = findViewById(R.id.image_mouth);
+        Mustache = findViewById(R.id.image_mustache);
+        Hat = findViewById(R.id.image_hat);
+        Nose = findViewById(R.id.image_nose);
+        Shoes = findViewById(R.id.image_shoes);
     }
 
     @Override
