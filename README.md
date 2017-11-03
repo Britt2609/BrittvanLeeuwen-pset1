@@ -6,5 +6,5 @@ The user can give mr potato head arms, ears, eyebrows, eyes, glasses, a hat, a m
 
 The app works in normal view and landscape view, as shown below in the screenshots.
 If the view is changed, all the checkboxes, and so mr Potatohead, stay the same.
-![alt text](doc/potatohead_screenshot.jpg)
-![alt text](doc/potatohead_screenshot_land.jpg)
+![screenshot normal view](doc/potatohead_screenshot.jpg)
+![screenshot landscape view](doc/potatohead_screenshot_land.jpg)
